@@ -97,6 +97,7 @@ export const keys = {
   Slash: 0x38,
   Space: 0x2c,
   Tab: 0x2b,
+  Power: 0x66,
 } as Record<string, number>;
 
 export const chars = {
